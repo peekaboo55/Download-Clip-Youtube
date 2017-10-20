@@ -1,0 +1,15 @@
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\bin\Debug\DownloadVideoYouTube.exe.config
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\bin\Debug\DownloadVideoYouTube.exe
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\bin\Debug\DownloadVideoYouTube.pdb
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\obj\Debug\DownloadVideoYouTube.csprojResolveAssemblyReference.cache
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\obj\Debug\DownloadVideoYouTube.Form1.resources
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\obj\Debug\DownloadVideoYouTube.Properties.Resources.resources
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\obj\Debug\DownloadVideoYouTube.csproj.GenerateResource.Cache
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\obj\Debug\DownloadVideoYouTube.csproj.CoreCompileInputs.cache
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\obj\Debug\DownloadVideoYouTube.exe
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\obj\Debug\DownloadVideoYouTube.pdb
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\bin\Debug\YoutubeExtractor.dll
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\bin\Debug\Newtonsoft.Json.xml
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\bin\Debug\YoutubeExtractor.xml
+C:\Users\I-Think\Documents\Visual Studio 2017\Projects\DownloadVideoYouTube\DownloadVideoYouTube\obj\Debug\DownloadVideoYouTube.Howto.resources
